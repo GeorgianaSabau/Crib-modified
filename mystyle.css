@@ -223,7 +223,7 @@ background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
 @media only screen and (min-width: 768px) {
 button1 {
   position: absolute;
-  top: 65%;
+  top: 75%;
   left: 22%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
